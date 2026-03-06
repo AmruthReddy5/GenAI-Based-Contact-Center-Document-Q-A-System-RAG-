@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "DOC001_C001",
+    "doc_id": "DOC001",
+    "doc_name": "Refund and Return Policy",
+    "category": "refund",
+    "chunk_index": 0,
+    "chunk_text": "Refund and Return Policy Our company offers a 30-day return policy for all products. Customers can return any product within 30 days of purchase for a full refund, provided the item is in its original condition with all tags and packaging intact. To initiate a return, customers must contact our support team via email at returns@company.com or call our helpline at 1800-123-4567. A Return Merchandise Authorization (RMA) number will be provided within 24 hours. Refunds are processed within 5-7 business days after we receive the returned item. The refund will be credited to the original payment method. For credit card payments, the refund may take an additional 3-5 business days to reflect on your statement. Non-refundable items include: digital downloads, personalized products, perishable goods, and items marked as final sale. Gift cards cannot be returned or refunded. For defective products, we offer a replacement or full refund within 90 days",
+    "word_count": 150
+  },
+  {
+    "chunk_id": "DOC001_C002",
+    "doc_id": "DOC001",
+    "doc_name": "Refund and Return Policy",
+    "category": "refund",
+    "chunk_index": 1,
+    "chunk_text": "personalized products, perishable goods, and items marked as final sale. Gift cards cannot be returned or refunded. For defective products, we offer a replacement or full refund within 90 days of purchase. Customers must provide photo evidence of the defect when contacting support. If a return is requested after 30 days but within 60 days, we offer store credit equivalent to the purchase price. No returns are accepted after 60 days.",
+    "word_count": 71
+  },
+  {
+    "chunk_id": "DOC002_C001",
+    "doc_id": "DOC002",
+    "doc_name": "Shipping and Delivery FAQ",
+    "category": "shipping",
+    "chunk_index": 0,
+    "chunk_text": "Shipping and Delivery Frequently Asked Questions Q: How long does standard shipping take? A: Standard shipping typically takes 5-7 business days within the country. International shipping takes 10-15 business days depending on the destination country. Q: Do you offer express delivery? A: Yes, we offer express delivery (1-2 business days) for an additional fee. Express delivery is available for orders placed before 12 PM local time. Same-day delivery is available in select cities for orders placed before 10 AM. Q: How can I track my order? A: Once your order is shipped, you will receive a tracking number via email and SMS. You can track your order on our website under 'My Orders' or directly on the courier's website. Tracking updates are available every 4-6 hours. Q: What happens if my package is lost? A: If your package is not delivered within 15 business days of the estimated delivery date,",
+    "word_count": 150
+  },
+  {
+    "chunk_id": "DOC002_C002",
+    "doc_id": "DOC002",
+    "doc_name": "Shipping and Delivery FAQ",
+    "category": "shipping",
+    "chunk_index": 1,
+    "chunk_text": "updates are available every 4-6 hours. Q: What happens if my package is lost? A: If your package is not delivered within 15 business days of the estimated delivery date, please contact our support team. We will initiate a trace with the courier. If the package is confirmed lost, we will reship the order at no additional cost or provide a full refund. Q: Are there free shipping options? A: Free standard shipping is available on all orders above Rs. 999. Members of our loyalty program get free shipping on all orders.",
+    "word_count": 92
+  },
+  {
+    "chunk_id": "DOC003_C001",
+    "doc_id": "DOC003",
+    "doc_name": "Account Management Guide",
+    "category": "account",
+    "chunk_index": 0,
+    "chunk_text": "Customer Account Management Guide Creating an Account: To create an account, visit our website and click on 'Sign Up'. Enter your email address, create a password (minimum 8 characters with at least one uppercase letter, one number, and one special character), and provide your name and mobile number. A verification email will be sent. Click the link in the email to activate your account. Resetting Your Password: If you forget your password, click 'Forgot Password' on the login page. Enter your registered email address and you will receive a password reset link within 5 minutes. The reset link expires after 30 minutes. If you don't receive the email, check your spam folder or contact support@company.com. Updating Account Information: You can update your name, phone number, and address from 'My Profile' settings. To change your email address, you must verify the new email first. Changes to payment methods can be made",
+    "word_count": 150
+  },
+  {
+    "chunk_id": "DOC003_C002",
+    "doc_id": "DOC003",
+    "doc_name": "Account Management Guide",
+    "category": "account",
+    "chunk_index": 1,
+    "chunk_text": "update your name, phone number, and address from 'My Profile' settings. To change your email address, you must verify the new email first. Changes to payment methods can be made under 'Payment Settings'. Two-Factor Authentication (2FA): We strongly recommend enabling 2FA for added security. Go to Settings > Security > Enable 2FA. You can use an authenticator app (Google Authenticator, Authy) or receive OTP via SMS. If you lose access to your 2FA method, contact our support team with your account email and a government-issued ID for verification.",
+    "word_count": 88
+  }
+]
